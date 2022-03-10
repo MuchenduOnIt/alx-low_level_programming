@@ -6,7 +6,8 @@
  * return: Always 0 (Success)
  */ 
 
-int main() {
+int main(void) 
+{
 	int intType;
 	float floatType;
 	double doubleType;
@@ -17,5 +18,5 @@ int main() {
 	printf("Size of double: %zu bytes\n", sizeof(doubleType));
 	printf("size of char: %zu byte\n", sizeof(charType));
 
-	return 0;
+	return (0);
 }
