@@ -5,19 +5,9 @@
  * @c: An input integer
  * Return: 1 if c is a digit or 0 otherwise
  */
+
 int _isdigit(int c)
 {
-	char i = '0';
-	int isdigit = 0;
+	return (c >= 48 && c <= 57);
 
-	for (; i <= '9'; i++)
-	{
-		if (i == c)
-		{
-			isdigit = 1;
-			break;
-		}
-	}
-
-	return (isdigit);
 }
