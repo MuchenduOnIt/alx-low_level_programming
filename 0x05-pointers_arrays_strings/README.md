@@ -17,3 +17,9 @@
     Prototype: int _strlen(char *s);
     FYI: The standard library provides a similar function: strlen. Run man strlen to learn more.
 
+3. I do not fear computers. I fear the lack of them
+    mandatory
+    Write a function that prints a string, followed by a new line, to stdout.
+
+    Prototype: void _puts(char *str);
+    FYI: The standard library provides a similar function: puts. Run man puts to learn more.
