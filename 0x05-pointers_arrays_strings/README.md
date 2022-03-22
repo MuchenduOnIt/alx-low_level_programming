@@ -23,3 +23,10 @@
 
     Prototype: void _puts(char *str);
     FYI: The standard library provides a similar function: puts. Run man puts to learn more.
+
+4. I can only go one way. I've not got a reverse gear
+    mandatory
+    Write a function that prints a string, in reverse, followed by a new line.
+
+    Prototype: void print_rev(char *s);
+
