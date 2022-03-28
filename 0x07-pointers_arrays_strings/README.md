@@ -55,3 +55,13 @@ mandatory
 Write a function that prints the chessboard.
 
 Prototype: void print_chessboard(char (*a)[8]);
+
+7. The line of life is a ragged diagonal between duty and desire
+mandatory
+Write a function that prints the sum of the two diagonals of a square matrix of integers.
+
+Prototype: void print_diagsums(int *a, int size);
+Format: see example
+You are allowed to use the standard library
+Note that in the following example we are casting an int[][] into an int*. This is not something you should do. The goal here is to make sure you understand how an array of array is stored in memory.
+
