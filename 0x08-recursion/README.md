@@ -11,3 +11,9 @@ Write a function that prints a string in reverse.
 
 Prototype: void _print_rev_recursion(char *s);
 
+2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange
+mandatory
+Write a function that returns the length of a string.
+
+Prototype: int _strlen_recursion(char *s);
+FYI: The standard library provides a similar function: strlen. Run man strlen to learn more.
