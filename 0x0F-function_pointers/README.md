@@ -108,3 +108,6 @@
 	If the number of bytes is negative, print Error, followed by a new line, and exit with the status 2
 	You do not have to compile with any flags
 	Note: if you want to translate your opcodes to assembly instructions, you can use, for instance udcli.
+	Note 0: je is equivalent to jz
+
+	Note 1: depending on how you write your main function, and on which machine you compile your program, the opcodes (and by extension the assembly code) might be different than the above Example
