@@ -15,3 +15,5 @@
 ## 4. Free list
 `Write a function that frees a listint_t list.`
 
+## 5. Free.
+`Write a function that frees a listint_t list`
