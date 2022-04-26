@@ -20,3 +20,6 @@
 
 ## 6. Nod
 `Write a function that deletes the head node of a listint_t linked list, and returns the head node’s data (n).`
+
+## 7. Get node at index
+`Write a function that returns the nth node of a listint_t linked list`
