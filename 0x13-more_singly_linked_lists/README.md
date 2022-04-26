@@ -35,3 +35,6 @@
 
 ## 11.Reverse list
 `Write a function that reverses a listint_t linked list.`
+
+## 12. Print(safe version)
+`Write a function that prints a listint_t linked list.`
