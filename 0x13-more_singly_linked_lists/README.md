@@ -38,3 +38,9 @@
 
 ## 12. Print(safe version)
 `Write a function that prints a listint_t linked list.`
+
+## 13. Free(safe version)
+`Write a function that frees a listint_t list.`
+
+## 14. Find the loop
+`Write a function that finds the loop in a linked list.`
